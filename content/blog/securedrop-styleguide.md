@@ -1,6 +1,5 @@
 +++
 title = "SecureDrop Style Guide"
-draft = true
 authors = ["anxhelo"]
 date = "2018-12-25 12:00:00 +0200"
 image = "/img/projects/securedrop_overview.webp"
