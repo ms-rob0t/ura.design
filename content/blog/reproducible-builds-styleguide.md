@@ -1,6 +1,5 @@
 +++
 title = "Reproducible Builds Style Guide"
-draft = true
 authors = ["anxhelo"]
 date = "2018-06-13 12:00:00 +0200"
 image = "/img/blog/ReproducibleBuilds_thumbnail.webp"
