@@ -1,6 +1,5 @@
 +++
 title = "I2P Style Guide and Usability Study"
-draft = true
 authors = ["anxhelo"]
 date = "2018-12-03 12:00:00 +0200"
 image = "/img/projects/i2p_overview.webp"
