@@ -1,6 +1,5 @@
 +++
 title = "Thunderbird Style Guide and Usability Study"
-draft = true
 authors = ["anxhelo"]
 date = "2018-07-05 08:00:00 +0200"
 image = "/img/blog/thumb_thunderbird.webp"
